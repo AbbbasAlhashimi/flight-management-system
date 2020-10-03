@@ -9,10 +9,10 @@ Alternatively, the agent could press anywhere outside the form; and the form wil
 The Front-end of the project was built using JQuery. When a new reservation is made, an AJAX request passed with request parameters.<br>
 <ul>Each Request passes
   <ol><i>URL</i>Of the redirection request like action.php.</ol>
-  <ol><i><i>Method Type</i> Whether it's a <b>POST</b> request or a <b>GET</b>request.</ol>
-    <ol><i>Identifiers</i> Organized by the index Value which is in this case <b>id</b>.</ol>
-  <ol><i>DataType</i>Where data are stored. it Could be a a Excel data type, JSON, TXT, etc.</ol>
-  <ol><i>Transaction Status</i>Where only Successful request queries are passed out.</ol>
+  <ol><i><i>Method Type</i> Whether it's a <b>POST</b> request or a <b>GET</b>request.</i></ol>
+    <ol><i>Identifiers</i> Organized by the index Value which is in this case <b>id</b>.</i></ol>
+    <ol><i>DataType</i>Where data are stored. it Could be a a Excel data type, JSON, TXT, etc.</i></ol>
+    <ol><i>Transaction Status</i>Where only Successful request queries are passed out.</i></ol>
 </ul
 
 <br>
