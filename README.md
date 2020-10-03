@@ -1,5 +1,5 @@
 The Project is a Flight Booking System. It consists of the following:<br>
-1- <b>Index page</b> consisting of a Bootstrap form with 6 Columns, a Booking button, adding and removing current reservations<br>
+1- <b>Index page</b> consisting of a Bootstrap form with 6 Columns, a Booking button, adding and removing current reservations.<br>
 2- <b>PHP service</b> to perform a simple call select statement and return data if existed.<br>
 3- <b>SQL database</b> where records are saved.<br><br>
 
