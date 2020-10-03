@@ -13,10 +13,9 @@ The Front-end of the project was built using JQuery. When a new reservation is m
   <ol>Identifiers</ol>
   <ol>DataType</ol>
   <ol>Transaction Status</ol>
-
 </ul
 
-<br><br>
+<br>
 Text Editor: Sublime Text<br>
 Server: IIS / Xampp<br>
 PHP Version 7.0<br>
